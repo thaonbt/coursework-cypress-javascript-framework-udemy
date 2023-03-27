@@ -1,0 +1,90 @@
+[
+  {
+    "description": "    E2E Ecommerce validation Description",
+    "elements": [
+      {
+        "description": "",
+        "id": "e2e-ecommerce-validation;filling-the-form-to-shop",
+        "keyword": "Scenario",
+        "line": 13,
+        "name": "Filling the form to shop",
+        "steps": [
+          {
+            "keyword": "Given ",
+            "line": 14,
+            "name": "I open Ecommerce page",
+            "result": {
+              "duration": 1209000000,
+              "status": "passed"
+            },
+            "match": {
+              "location": "not available:0"
+            }
+          },
+          {
+            "keyword": "When ",
+            "line": 15,
+            "name": "I fill the form details",
+            "result": {
+              "duration": 571000000,
+              "status": "passed"
+            },
+            "match": {
+              "location": "not available:0"
+            },
+            "rows": [
+              {
+                "cells": [
+                  "name",
+                  "gender"
+                ]
+              },
+              {
+                "cells": [
+                  "bobz",
+                  "Male"
+                ]
+              }
+            ]
+          },
+          {
+            "keyword": "Then ",
+            "line": 18,
+            "name": "Validate the forms behaviour",
+            "result": {
+              "duration": 101000000,
+              "status": "passed"
+            },
+            "match": {
+              "location": "not available:0"
+            }
+          },
+          {
+            "keyword": "And ",
+            "line": 19,
+            "name": "Select the Shop page",
+            "result": {
+              "duration": 2445000000,
+              "status": "passed"
+            },
+            "match": {
+              "location": "not available:0"
+            }
+          }
+        ],
+        "type": "scenario",
+        "tags": [
+          {
+            "line": 12,
+            "name": "@Smoke"
+          }
+        ]
+      }
+    ],
+    "id": "e2e-ecommerce-validation",
+    "keyword": "Feature",
+    "line": 1,
+    "name": "E2E Ecommerce validation",
+    "uri": "cypress\\integration\\cucumberBDD\\rahulshetty\\ecommerce.feature"
+  }
+]

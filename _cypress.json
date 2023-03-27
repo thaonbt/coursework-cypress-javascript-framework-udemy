@@ -1,0 +1,12 @@
+{
+    "db": {
+        "userName": "rsa",
+        "password": "Rahul2023",
+        "server": "rsadbdemo2023.database.windows.net",
+        "options": {
+            "database": "rahulshettyacademy",
+            "encrypt": true,
+            "rowCollectionOnRequestCompletion" : true
+        }
+    }
+}
