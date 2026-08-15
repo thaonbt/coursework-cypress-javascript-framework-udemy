@@ -51,7 +51,7 @@ Execute the local binary command to launch the interactive Cypress GUI interface
 ---
 
 ### 📜 Verified Certificate
-*   You can view my official course completion certificate here: [Udemy Verified Certificate](https://udemy.com)
+*   You can view my official course completion certificate here: [Udemy Verified Certificate](https://www.udemy.com/certificate/UC-3d815352-3518-4301-bf4d-9899ef7db653/)
 
 ---
 _Disclaimer: This repository is maintained strictly for personal learning, code practice, and future reference._
