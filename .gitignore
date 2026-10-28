@@ -43,7 +43,7 @@ build/
 /reports/
 node_modules/
 mochawesome-report/
-cucumer-report/
+cucumber-report/
 
 ### Package files ###
 *.jar
